@@ -1,0 +1,6 @@
+{
+  "name": "EcoFriend",
+  "description": "AI-powered smart plantation assistant to help you grow healthier plants with disease identification, smart scheduling, and personalised recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
